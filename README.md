@@ -1,4 +1,3 @@
-# Calculator
 <h1>Calculator for Zappos Internship Application 2016</h1>
 This iPhone/iPad application is designed under the requires listed below:
 Create an iPhone/iPad app in Swift or Objective C that mimics or improves on the functionality of a hand held calculator. Please submit either a github link or zip file of the project directory.
@@ -16,3 +15,10 @@ Create an iPhone/iPad app in Swift or Objective C that mimics or improves on the
 
 
   ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0105.PNG)
+  
+  Here is an example of a divison by zero output:
+  
+  ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG)
+  
+  Here is another example:
+    ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG)
