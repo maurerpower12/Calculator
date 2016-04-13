@@ -1,4 +1,4 @@
-<h1>Calculator for Zappos Internship Application 2016</h1>
+<h1>Swift iOS Calculator 2016</h1>
 This iPhone/iPad application is designed under the requires listed below:
 Create an iPhone/iPad app in Swift or Objective C that mimics or improves on the functionality of a hand held calculator. Please submit either a github link or zip file of the project directory.
 
