@@ -14,11 +14,11 @@ Create an iPhone/iPad app in Swift or Objective C that mimics or improves on the
 2. 2 3 * 5 6 * +    Output Description: 2 x 3 + (5 x 6) = 
 
 
-  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0105.PNG" height="90">
+  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0105.PNG" height="200">
   
   Here is an example of a divison by zero output:
   
-  ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG| width=90)
+  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG" width="200">
   
   Here is another example:
-    ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG| width=90)
+  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG" width="200">
