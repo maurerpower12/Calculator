@@ -10,15 +10,15 @@ Create an iPhone/iPad app in Swift or Objective C that mimics or improves on the
   
 <h3>Postfix notation examples:</h3>
 
-1. 1 2 3 * +        Output Descrption: 1 + (2 x 3) =
+1. 1 2 3 * +        Output Descrption: 1 x (2 + 3) =
 2. 2 3 * 5 6 * +    Output Description: 2 x 3 + (5 x 6) = 
 
 
-  ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0105.PNG)
+  ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0105.PNG | width=90)
   
   Here is an example of a divison by zero output:
   
-  ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG)
+  ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG| width=90)
   
   Here is another example:
-    ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG)
+    ![alt tag](https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG| width=90)
