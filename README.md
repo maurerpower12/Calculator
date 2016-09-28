@@ -18,7 +18,7 @@ Create an iPhone/iPad app in Swift or Objective C that mimics or improves on the
   
   Here is an example of a divison by zero output:
   
-  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG" width="200">
+  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0100.PNG" height="200">
   
   Here is another example:
-  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG" width="200">
+  <img src="https://github.com/maurerpower12/Calculator/blob/master/AppImages/IMG_0104.PNG" height="200">
